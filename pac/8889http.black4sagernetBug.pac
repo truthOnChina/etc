@@ -2,7 +2,7 @@
 // Update: 2021-05-09 15:59:55
 //
 
-const proxy = "HTTP 127.0.0.1:9080;";
+const proxy = "HTTP 127.0.0.1:8889;";
 const direct = "DIRECT;";
 
 const hasOwnProperty = Object.hasOwnProperty;
